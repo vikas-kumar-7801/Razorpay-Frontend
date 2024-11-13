@@ -1,19 +1,9 @@
-## ⭐ Razorpay Clone ⭐
-
-It's a website that has been designed to mimic the design of the popular Indian payment gateway, Razorpay.
-
-⭕ **This Site is Fully Responsive**
-<br>
-<br>
-
-## 📌 **Live Site URL:** <a href="https://razorpay-copy.netlify.app/">**Visit Now** 🚀</a>
-
-<br>
-
-## 📌 Tech Stack
-
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
-<br>
-<br>
+![Screenshot 2024-11-13 091908](https://github.com/user-attachments/assets/104f8dfb-a789-49e8-b429-4bd3583ca4f9)
+![Screenshot 2024-11-13 091916](https://github.com/user-attachments/assets/6773abf3-9bb6-4d1d-b0e4-933dcb59e92c)
+![Screenshot 2024-11-13 091924](https://github.com/user-attachments/assets/5ca1c41a-946b-4bcf-a0d4-0aee6b9d1eb0)
+![Screenshot 2024-11-13 091937](https://github.com/user-attachments/assets/2cbbcc41-c6be-4c80-a39c-5538dde58ff3)
+![Screenshot 2024-11-13 091954](https://github.com/user-attachments/assets/021e9dc4-056b-496e-aad3-e5c76f9e087a)
+![Screenshot 2024-11-13 092009](https://github.com/user-attachments/assets/dada9e15-c123-4969-bd32-b237eebb2ca8)
+![Screenshot 2024-11-13 092019](https://github.com/user-attachments/assets/2883d606-029b-406c-8823-a9c3bc0bb644)
+![Screenshot 2024-11-13 092033](https://github.com/user-attachments/assets/049ebebf-bdc7-414d-9902-2e97acd11fd6)
+![Screenshot 2024-11-13 092040](https://github.com/user-attachments/assets/5f54375c-099c-4957-8af7-b0adc8be3c77)
